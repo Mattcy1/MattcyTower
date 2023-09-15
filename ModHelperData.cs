@@ -8,7 +8,7 @@ using MelonLoader;
             public const string Version = "1.1";
             public const string Name = "Mattcy Tower";
             public const string Description =
-                "Adds in a new custom tower themed around me Also Check Out My Youtube Channel Its MattcyYT with the litte orange and blue icon thanks!";
+                "Adds in a new custom tower themed around me";
 
             public const string RepoOwner = "Mattcy1";
             public const string RepoName = "Mattcy-tower";
